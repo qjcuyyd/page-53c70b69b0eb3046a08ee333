@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c3b584addc47e74b23700a15",
+  "owner": "qjcuyyd",
+  "repo": "page-53c70b69b0eb3046a08ee333",
+  "title": "方舟加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "53c70b69b0eb3046a08ee333",
+      "a": "方舟加速器",
+      "b": "机场官网线路发布页",
+      "entity": "方舟加速器",
+      "brand": "方舟加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ead9433cc0f6d3871d241620eede47ba40144d150442aa494f3d02d36cec9863",
+      "content": {
+        "primary_entity": "方舟加速器",
+        "keyword1": "方舟加速器",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端：Windows、macOS 桌面端，Android、iOS 移动端，以及路由器插件可覆盖多数场景。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定方舟加速器套餐，下载对应客户端并导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_DESCRIPTION": "，方舟加速器提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，按年付可节省两个月费用。旗舰版配备 IPLC 专线游戏优化与原生流媒体解锁，适合高频跨区办公与娱乐用户。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合手机与笔记本少量使用；流量需求较大时再考虑升级旗舰版。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 流量，支持 5 台设备同时在线，拥有全节点原生流媒体解锁和 IPLC 专线游戏加速优化，月付 ¥35，年付 ¥350。",
+          "AI_FAQ_ANSWER_3": "可以。团队版每月 1000GB 流量，支持 20 台设备同时在线，提供 VIP 专属高带宽节点与企业定制路由，年付 ¥850，适合多人协作。",
+          "AI_FAQ_ANSWER_4": "选择与设备系统匹配的客户端，在客户端内添加订阅信息并更新节点列表，完成后可切换线路使用。",
+          "AI_FAQ_ANSWER_5": "月付适合短期尝试，年付通常更划算：基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，均可按需选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "方舟加速器基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版相比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_3": "团队版可以多台设备一起使用吗？",
+          "AI_FAQ_QUESTION_4": "如何为设备配置方舟加速器订阅？",
+          "AI_FAQ_QUESTION_5": "月付和年付应该怎么选？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个角度对比套餐，减少选择成本。",
+          "AI_FEATURES_TITLE": "订阅与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度使用；旗舰版 300GB、团队版 1000GB 覆盖更高频需求。",
+          "AI_FEATURE_TEXT_2": "同时在线设备数从 3 台到 20 台，按手机、电脑、平板数量匹配套餐更合理。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速与原生流媒体解锁，团队版额外支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "流量按需选择",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "线路权益差异",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，再按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅",
+          "AI_HERO_INTRO": "方舟加速器为跨区办公、流媒体与游戏场景提供订阅服务，套餐覆盖不同流量与设备规模。按设备选择客户端、导入订阅即可连接使用。",
+          "AI_HERO_SUBTITLE": "多端订阅，轻松连接",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，年付 ¥150",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，年付 ¥350",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，年付 ¥850",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路权益上区分明确，按下表比较后选定适合的周期。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对照基础版 100GB/3 台、旗舰版 300GB/5 台、团队版 1000GB/20 台，确认流量与设备是否够用。",
+          "AI_STEP_TEXT_2": "查看所选套餐的线路权益与适配要求，旗舰版含 IPLC 专线与流媒体解锁，团队版支持企业定制路由。",
+          "AI_STEP_TEXT_3": "在对应平台下载客户端，按客户端文档添加订阅信息，更新节点后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "方舟加速器多端订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5xj13b.cn",
+    "host": "5xj13b.cn"
+  },
+  "file_hashes": {
+    "index.html": "9b225828af4f1468bc4de8defe6e7e76516e36cc06df6977e1d34be8b1fb507b",
+    "sitemap.xml": "2e4a3d7045270a77b03a626aff46d7a76e806a64c274ddc9f9d6b0bfb08da5bc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4790dc30a5551e48efadecab7912ba8c691575191973ca1aebcd24b38a8d84b8",
+    "robots.txt": "b0d2cbcff4d0510748d4c8f43659996a415f34133b876f9ca6d29ed9394da8bf",
+    "1cdebc2b4a759abb18de342d6b09d2bb.txt": "aceb0ff3916b32b0c2c76192b890e7b45999291c9818f1cd06e8df79039ca942"
+  },
+  "revision": "4bd52bf929527a68a86325bd66d1ea7398634d98882ebd90982d95c2376a0cc5"
+}
